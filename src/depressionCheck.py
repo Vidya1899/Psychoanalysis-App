@@ -22,8 +22,8 @@ plotpath="/home/gvidya1899/Psychoanalysis-App/static/images/hist2.png"
 
 
 contentDictionary = {
-    "Normal":"Hey there ! Your handwriting is just as that of a normal person and doesn't show any sign  of dyslexia. It also indicates that you have strong focus and function to execute while writing.",
-    "Depression":"Hey there ! Your handwriting indicates that you have a very high chance of having dyslexia. You might be finding it problematic to apply the right amount of pressure while writing"
+    "Normal":"Hey there ! Your handwriting is just as that of a normal person and doesn't show any sign  of depression.  ",
+    "Depression":"Hey there ! Your handwriting indicates that you have a high chance of depression. "
 }
 
 def depression(file_name, image_path,sampl_no):
