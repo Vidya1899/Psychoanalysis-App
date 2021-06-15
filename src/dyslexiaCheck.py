@@ -25,7 +25,7 @@ import pandas as pd
 from nltk.stem import PorterStemmer
 porter = PorterStemmer()
 lancaster=LancasterStemmer()
-plotpath="/home/gvidya1899/Graphology-App/static/images/hist1.png"
+plotpath="/home/gvidya1899/Psychoanalysis-App/static/images/hist1.png"
 
 contentDictionary = {
     "Normal":"Hey there ! Your handwriting is just as that of a normal person and doesn't show any sign  of dyslexia. It also indicates that you have strong focus and function to execute while writing.",

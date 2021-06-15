@@ -18,7 +18,7 @@ import csv
 import os, io
 from google.cloud import vision
 from google.cloud.vision_v1 import types
-plotpath="/home/gvidya1899/Graphology-App/static/images/hist2.png"
+plotpath="/home/gvidya1899/Psychoanalysis-App/static/images/hist2.png"
 
 
 contentDictionary = {
