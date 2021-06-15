@@ -1,4 +1,4 @@
-# Graphalogy App
+# Psychoanalysis App
 ### Initial Setup
 1. Create a free-tier VM instance from the GCP compute engine console
 2. Configure gcloud setup by following [these instructions](https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup)
