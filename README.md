@@ -10,9 +10,7 @@
 1. Create a free-tier VM instance from the GCP compute engine console
 2. Configure gcloud setup by following [these instructions](https://cloud.google.com/deployment-manager/docs/step-by-step-guide/installation-and-setup)
 3. SSH into our pod by using the gcloud command available in the console in the VM instances page.
-    <p align="center">
-    <img src="forReadme/sshCommand.png" alt="alt text"width="600" height="200">
-    </p>
+![alt-text-1](Images/normal.png "forReadme/sshCommand.png")
 4. Make sure the port 80 is open for HTTP, TCP protocol.
    <p align="center">
     <img src="forReadme/network.png" alt="alt text"width="600" height="200">
