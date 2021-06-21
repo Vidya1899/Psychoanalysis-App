@@ -56,3 +56,44 @@ The app is an automated graphology system, that will analyze human handwriting s
     <img src="forReadme/process.png" alt="alt text"width="700" height="100">
     </p>
 5. Now run, `sudo python3 app.py &`
+
+<!-- CITATION -->
+## Citation
+1. A comperative evaluation of MARL algorithms that includes this environment
+```
+@article{papoudakis2020comparative,
+  title={Comparative Evaluation of Multi-Agent Deep Reinforcement Learning Algorithms},
+  author={Papoudakis, Georgios and Christianos, Filippos and Sch{\"a}fer, Lukas and Albrecht, Stefano V},
+  journal={arXiv preprint arXiv:2006.07869},
+  year={2020}
+}
+```
+2. A method that achieves state-of-the-art performance in many Level-Based Foraging tasks
+```
+@inproceedings{christianos2020shared,
+  title={Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning},
+  author={Christianos, Filippos and Sch{\"a}fer, Lukas and Albrecht, Stefano V},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year={2020}
+}
+```
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- CONTACT -->
+## Contact
+
+MORSE STUDIO- mail@mail.com
+
+Project Link: [https://github.com/Vidya1899/Psychoanalysis-App](https://github.com/Vidya1899/Psychoanalysis-App)
+
+
