@@ -20,7 +20,7 @@
 ## About The Project
 The app is an automated graphology system, that will analyze human handwriting samples using computer vision and natural language processing techniques. Through the visual feature analysis using computer vision, the proposed system will generate a personality trait map using a coarse/high-levelclassification of the basic behavioral and psychological characteristics of the user. A high resolution visual feature analysis will beconducted on the handwriting samples to report on the quality of the strokes, the grammar correctness of the sentences, and the contextual referencing of the sentences and paragraphs. These features and traits generated will be compared with potential markers identified across different mental health conditions E.g. letter mirroring in dyslexia, change instroke sizes in personality analysis and going back-forth under depression. Overall, the key outcome of the app will be a detailed report summarizing the user’s psychological traits, which could be useful as an early indicator that the user needs medical intervention.
 
-|         Resource    |       LINK       |
+|         Resource    |       Link       |
 |:-------------------:|:----------------:|
 |Web-App              |    [App](http://34.122.250.178/)     |
 |Dataset           |    Personality Analysis, [Dyslexia](https://drive.google.com/drive/folders/1S895_SOM9YqAUS1mp1sKV-_JzzeXsau0?usp=sharing) , [Depression](https://drive.google.com/drive/folders/1MBF8T-XxV5X1jw8oAAElGBU-63hV-4oy?usp=sharing)|
