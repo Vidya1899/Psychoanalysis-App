@@ -36,9 +36,9 @@ The app is an automated graphology system, that will analyze human handwriting s
 ![alt-text-1](forReadme/sshCommand.png "ssh")
 
 4. Make sure the port 80 is open for HTTP, TCP protocol.
-   <p align="center">
-    <img src="forReadme/network.png" alt="alt text"width="600" height="200">
-    </p>
+
+![alt-text-1](forReadme/network.png "network")
+
 5. Install flask, and other dependencies required to run our inferencing scripts
 6. Clone [Psychoanalysis-App](https://github.com/Vidya1899/Psychoanalysis-App) repository
 7. To start the server. Change directory to our repository and run `sudo python3 app.py &`
