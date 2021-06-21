@@ -1,8 +1,10 @@
 # Psychoanalysis App
 ## A non-intrusive mobile application to analyze human handwriting samples
-
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+### Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -16,9 +18,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 The app is an automated graphology system, that will analyze human handwriting samples using computer vision and natural language processing techniques. Through the visual feature analysis using computer vision, the proposed system will generate a personality trait map using a coarse/high-levelclassification of the basic behavioral and psychological characteristics of the user. A high resolution visual feature analysis will beconducted on the handwriting samples to report on the quality of the strokes, the grammar correctness of the sentences, and the contextual referencing of the sentences and paragraphs. These features and traits generated will be compared with potential markers identified across different mental health conditions E.g. letter mirroring in dyslexia, change instroke sizes in personality analysis and going back-forth under depression. Overall, the key outcome of the app will be a detailed report summarizing the user’s psychological traits, which could be useful as an early indicator that the user needs medical intervention.
 
 |         Resource    |       LINK       |
