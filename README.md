@@ -7,6 +7,7 @@
 |:-------------------:|:----------------:|
 |Web-App              |    [App](http://34.122.250.178/)     |
 |Dataset           |    Personality Analysis, [Dyslexia](https://drive.google.com/drive/folders/1S895_SOM9YqAUS1mp1sKV-_JzzeXsau0?usp=sharing) , [Depression](https://drive.google.com/drive/folders/1MBF8T-XxV5X1jw8oAAElGBU-63hV-4oy?usp=sharing)|
+|Data Collection  | Docs|
 |Others          |    Paper,Docs ,Post      |
 
 ### Initial Setup
