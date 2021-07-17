@@ -65,20 +65,12 @@ The app is an automated graphology system, that will analyze human handwriting s
 ## Citation
 1. A comperative evaluation of MARL algorithms that includes this environment
 ```
-@article{papoudakis2020comparative,
-  title={Comparative Evaluation of Multi-Agent Deep Reinforcement Learning Algorithms},
-  author={Papoudakis, Georgios and Christianos, Filippos and Sch{\"a}fer, Lukas and Albrecht, Stefano V},
-  journal={arXiv preprint arXiv:2006.07869},
-  year={2020}
+{
 }
 ```
 2. A method that achieves state-of-the-art performance in many Level-Based Foraging tasks
 ```
-@inproceedings{christianos2020shared,
-  title={Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning},
-  author={Christianos, Filippos and Sch{\"a}fer, Lukas and Albrecht, Stefano V},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year={2020}
+{
 }
 ```
 
