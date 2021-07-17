@@ -63,12 +63,12 @@ The app is an automated graphology system, that will analyze human handwriting s
 
 <!-- CITATION -->
 ## Citation
-1. A comperative evaluation of MARL algorithms that includes this environment
+1. XXX
 ```
 {
 }
 ```
-2. A method that achieves state-of-the-art performance in many Level-Based Foraging tasks
+2. YYY
 ```
 {
 }
